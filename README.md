@@ -4,111 +4,77 @@
 
 ___
 
-# AE 1
-
-## 1
-A norma NBR ISO/IEC 27001 trata de:
-
-> Segurança da informação e gestão de riscos
-
-## 2
-O conceito de "computação ubíqua" envolve:
-
-> A ideia de que a computação está integrada em diversos dispositivos do dia a dia.
-
-## 3
-Qual é um dos principais aspectos éticos em segurança da informação?
-
-> Proteger a privacidade e a integridade dos dados
-
-## 4
-Privacidade na gestão de dados modernos refere-se a:
-
-> Implementar controles de acesso para proteger informações pessoais.
-
-##5
-O que é considerado uma responsabilidade moral de profissionais de segurança da informação?
-
-> Manter a segurança da informação e proteger a privacidade.
-
-## 6
-A proteção, movimentação e classificação da informação são responsabilidades de:
-
-> A alta gerência e todos os funcionários.
-
-## 7
-Qual é a principal função de uma política de segurança da informação?
-
-> Definir, proteger e assegurar a integridade da informação.
-
-## 8
-Quais são os níveis de classificação de informação mencionados no documento?
-
-> Confidencial, irrestrito dentro da organização, disponível publicamente.
-
-## 9
-Por que é importante um Plano de Continuidade de Negócio?
-
-> Para garantir a recuperação rápida após interrupções.
-
-## 10
-Um Plano de Continuidade de Negócios deve incluir:
-
-> Itens de recuperação de desastres e minimização da indisponibilidade
 
 
-___
+##1 
+Analise as afirmações sobre Inteligência Artificial e assinale a alternativa correta.
 
-# AE 2
+I. O termo IA foi cunhado em 1956 por John McCarthy (o Pai da Inteligência Artificial)
+II. A Inteligência Artificial engloba o aprendizado de máquina
+III. O machine learning engloba as redes neurais e a inteligência artificial engloba as duas áreas
+IV. A ideia da Inteligência Artificial é criar máquinas inteligentes que possam tomar decisões por conta própria
 
-## 1
-A norma NBR ISO/IEC 27002 é um guia para:
+> Todas as afirmações estão corretas – I – II – III – IV
 
-> Implementação de boas práticas em segurança da informação
+##2 
+A estrutura da conexão em rede das redes neurais  que ocorre fundamentalmente por duas estruturas principais. Quais são elas?
 
-## 2 
-Em transações online, a segurança deve focar em:
+> Redes neurais artificiais de camada única e Redes neurais artificiais de multicamada.
 
-> Garantir a integridade, confidencialidade e disponibilidade dos dados
+##3
+Analise as afirmações sobre um neurônio artificial e assinale a alternativa correta.
 
-## 3 No desenvolvimento de sistemas, a segurança envolve:
+I. Um neurônio artificial é um modelo matemático simplificado do neurônio biológico
+II. Um neurônio artificial é inspirado na análise da geração e propagação de pulsos elétricos pela membrana celular dos neurônios biológicos
+III. Um neurônio artificial é uma unidade de processamento da informação
+IV. Neurônios artificiais coletam os sinais de entrada, processa-os e entregam uma saída
 
-> Considerar a segurança durante todo o ciclo de vida do desenvolvimento
+> Todas as afirmações estão corretas – I – II – III – IV
 
 ## 4
-O que fazer quando ocorre uma interrupção?
+Analise as afirmações sobre Computação Natural e assinale a alternativa correta.
 
-> Seguir o plano de recuperação de desastres e minimizar a indisponibilidade
+I. A computação natural já se encontra em aparelhos domésticos, como ar condicionado e máquina de lavar
+II. São exemplos de objetos inspirados na natureza como, velcro (plantas), antenas (insetos) e aviões (pássaros)
+III. A computação natural não garante que a solução ótima será encontrada, mas sim a quase-ótima
+IV. Por muitos séculos, a observação do mundo natural permitiu que as pessoas para elaborassem teorias sobre como a natureza funciona
+
+> Todas as afirmações estão corretas – I – II – III - IV
 
 ## 5
-A classificação da informação é importante para:
+Sabemos que a convergência dos setores, deve ser vista como um real condutor da Indústria 4.0. Em conjunto com a inovação tecnológica o processo de produção sofreu mudanças. Neste contexto podemos afirmar, que a força hidráulica e a produção em massa (“fordismo”) fazem parte de qual estágio das revoluções industriais?
 
-> Definir os níveis de proteção e acesso conforme a sensibilidade da informação
+> 2ª Revolução Industrial
+
+##6
+Analise as afirmações sobre aprendizagem de máquina e assinale a alternativa correta.
+
+I. Aprendizagem de máquina é um campo da inteligência artificial que se concentra no desenvolvimento de algoritmos e modelos
+II. O aprendizado de máquina envolve o treinamento de um modelo usando um conjunto de dados de entrada
+III. Com os algoritmos e modelos do aprendizado de máquina é possível de fazer previsões ou tomar decisões baseadas nos dados
+IV. O aprendizado de máquina pode ser categorizado em tipos
 
 
-## 6
-A segurança de serviços de terceiros envolve:
-
-> Garantir que fornecedores cumpram com as políticas de segurança estabelecidas
-
+> Todas as afirmações estão corretas – I – II – III - IV
 
 ## 7
-A segurança em recursos humanos se aplica principalmente a:
+Quais são as três principais partes de um neurônio biológico?
 
-> Garantir que os funcionários compreendam suas responsabilidades de segurança
-
+> Axônio – Bainha de mielina – Terminais pré-sinápticos
 
 ## 8
-A gestão de incidentes de segurança da informação inclui:
+Em termos formais, técnicas de aprendizado de máquina são compostas por quais componentes?
 
-> Preparar e responder adequadamente a incidentes de segurança
+> Conjunto de dados - Modelo matemático - Função de perda ou de custo - Procedimento de otimização de parâmetros livres.
 
 ## 9
-A mobilidade e segurança envolvem:
+O que é o ChatGPT?
 
-> Proteger dispositivos móveis e garantir políticas de segurança aplicáveis
+> É um modelo de linguagem
+
 
 ## 10
-A gestão de ativos inclui:
 
-> Proteção e controle de todos os ativos de informação
+Assinale a afirmação referente ao conceito de aprendizado não supervisionado.
+
+> O aprendizado não supervisionado é o modelo treinado com dados não rotulados para encontrar padrões e estruturas nos dados.
