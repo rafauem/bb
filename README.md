@@ -6,7 +6,8 @@ ___
 
 
 
-##1 
+## 1 
+
 Analise as afirmações sobre Inteligência Artificial e assinale a alternativa correta.
 
 I. O termo IA foi cunhado em 1956 por John McCarthy (o Pai da Inteligência Artificial)
@@ -16,12 +17,14 @@ IV. A ideia da Inteligência Artificial é criar máquinas inteligentes que poss
 
 > Todas as afirmações estão corretas – I – II – III – IV
 
-##2 
+## 2 
+
 A estrutura da conexão em rede das redes neurais  que ocorre fundamentalmente por duas estruturas principais. Quais são elas?
 
 > Redes neurais artificiais de camada única e Redes neurais artificiais de multicamada.
 
-##3
+## 3
+
 Analise as afirmações sobre um neurônio artificial e assinale a alternativa correta.
 
 I. Um neurônio artificial é um modelo matemático simplificado do neurônio biológico
@@ -32,6 +35,7 @@ IV. Neurônios artificiais coletam os sinais de entrada, processa-os e entregam 
 > Todas as afirmações estão corretas – I – II – III – IV
 
 ## 4
+
 Analise as afirmações sobre Computação Natural e assinale a alternativa correta.
 
 I. A computação natural já se encontra em aparelhos domésticos, como ar condicionado e máquina de lavar
@@ -42,11 +46,13 @@ IV. Por muitos séculos, a observação do mundo natural permitiu que as pessoas
 > Todas as afirmações estão corretas – I – II – III - IV
 
 ## 5
+
 Sabemos que a convergência dos setores, deve ser vista como um real condutor da Indústria 4.0. Em conjunto com a inovação tecnológica o processo de produção sofreu mudanças. Neste contexto podemos afirmar, que a força hidráulica e a produção em massa (“fordismo”) fazem parte de qual estágio das revoluções industriais?
 
 > 2ª Revolução Industrial
 
 ##6
+
 Analise as afirmações sobre aprendizagem de máquina e assinale a alternativa correta.
 
 I. Aprendizagem de máquina é um campo da inteligência artificial que se concentra no desenvolvimento de algoritmos e modelos
@@ -58,16 +64,19 @@ IV. O aprendizado de máquina pode ser categorizado em tipos
 > Todas as afirmações estão corretas – I – II – III - IV
 
 ## 7
+
 Quais são as três principais partes de um neurônio biológico?
 
 > Axônio – Bainha de mielina – Terminais pré-sinápticos
 
 ## 8
+
 Em termos formais, técnicas de aprendizado de máquina são compostas por quais componentes?
 
 > Conjunto de dados - Modelo matemático - Função de perda ou de custo - Procedimento de otimização de parâmetros livres.
 
 ## 9
+
 O que é o ChatGPT?
 
 > É um modelo de linguagem
